@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/maysunfaisal/rag-oct23-4:67741fb63b610edc6b72bb2658c395a726eb1bf4@sha256:95e800b131e3619913f96b75582c5ea7f8a7f0c0f5808cee0f225a5f94fcd999 # use pre-built to bootstrap 
+        - image: quay.io/maysunfaisal/rag-oct23-4:b76b5cf9c12e9f7e9e72998e80095421c67a0278@sha256:f4530b7e4efec405a6f600d69355ff4cea14401960844ff7e5ddb702b431ca0e # use pre-built to bootstrap 
           name: app-inference
